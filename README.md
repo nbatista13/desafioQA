@@ -1,4 +1,4 @@
-2. 1. # Automated Tests - Serasa :man_technologist: :woman_technologist:
+2. 1. # Automated Tests - Serasa :man_technologist:
    
       This automation project was created using Selenium WebDriver with Java and Junit, and it’s important to mention that its entire structure follows the Page Object pattern.
    
